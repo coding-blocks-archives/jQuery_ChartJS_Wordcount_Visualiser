@@ -1,0 +1,14 @@
+
+#tblWordCount {
+  display: inline;
+  position: absolute;
+}
+#contents * {
+  margin-left: 150px;
+  display: inline
+}
+#cnvWcChart {
+  height: 600px !important;
+  width: 600px !important;
+  background-color: beige;
+}
